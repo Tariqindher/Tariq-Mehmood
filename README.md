@@ -1,103 +1,52 @@
-# Tariq-Mehmood
 # Hey 👋 I'm Tariq Mehmood
 
-🤖 Aspiring Data Scientist | Machine Learning Enthusiast | Final Year BS Computer Science Student
+## 🚀 AI Student & Aspiring Data Scientist
 
-## 👨‍💻 About Me
+🎓 BS Computer Science (AI Specialization)
 
-I am a Final Year BS Computer Science student at Sukkur IBA University, Pakistan. I am passionate about Data Science, Machine Learning, Artificial Intelligence, and building practical software solutions. I enjoy working with data, solving real-world problems, and continuously learning new technologies.
+🌱 Currently learning:
 
-* 🔍 Interested in Data Science, Machine Learning, AI, and Software Development
-* 📊 Passionate about data analysis, predictive modeling, and data-driven decision making
-* 💡 Always exploring new technologies and practical projects
-* 🌍 Open to internships, freelance opportunities, and entry-level roles
-
----
+* Python
+* Data Analysis
+* Machine Learning
+* SQL
+* Git & GitHub
 
 ## 🛠 Tech Stack
 
-### Programming Languages
+### Languages
 
 * Python
 * Java
-* C++
-* JavaScript
+* SQL
 
-### Data Science & Machine Learning
+### Data Science
 
 * Pandas
 * NumPy
-* Scikit-learn
 * Matplotlib
-* Data Cleaning
-* Feature Engineering
-* Machine Learning
+* Seaborn
 
-### Databases
+## 📊 Projects
 
-* SQL
-* MySQL
+### Movie Recommendation System
 
-### Web Development
+Built a recommendation system using Python and machine learning techniques.
 
-* HTML
-* CSS
-* JavaScript
+### Titanic Survival Analysis
 
----
+Performed exploratory data analysis and visualized survival patterns.
 
-## 📊 Featured Projects
+## 🏆 Achievements
 
-### ❤️ Heart Disease Prediction Project
-
-Machine Learning project using PCA, K-Means Clustering, Random Forest, and Support Vector Machine (SVM) for heart disease prediction, clustering, visualization, and classification.
-
-**Tech Used:** Python, Scikit-learn, PCA, K-Means, Random Forest, SVM
-
----
-
-### 🍔 Food Ordering Website
-
-A responsive food ordering website where users can browse food categories, view featured products, and add items to the cart.
-
-**Tech Used:** HTML, CSS, JavaScript
-
----
-
-### 🎓 Student Performance Data Cleaning
-
-Data preprocessing and analysis project involving missing value handling, duplicate removal, feature engineering, and data visualization.
-
-**Tech Used:** Python, Pandas, NumPy
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tariqindher\&show_icons=true\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Tariqindher\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tariqindher\&layout=compact\&theme=tokyonight)
-
----
-
-## 🏆 Goals
-
-* Become a Professional Data Scientist
-* Build impactful AI and Machine Learning projects
-* Contribute to Open Source
-* Secure opportunities in Data Science and AI
-
----
+* AI Student
+* Open Source Learner
+* Competitive Programming Enthusiast
 
 ## 📫 Connect With Me
 
-* LinkedIn: linkedin.com/in/tariq-gul
-* GitHub: github.com/Tariqindher
-* Instagram: instagram.com/in/Tariq_gul
-* Email: [tariqmehmoodsthp23@gmail.com](mailto:tariqmehmoodsthp23@gmail.com)
+* LinkedIn: Your LinkedIn URL
+* Kaggle: Your Kaggle URL
+* LeetCode: Your LeetCode URL
 
----
-
-⭐ Always learning, building, and growing in the world of Data Science and Artificial Intelligence.
+⭐ Always learning and building new things!
